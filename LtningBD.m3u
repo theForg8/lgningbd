@@ -330,19 +330,19 @@ http://eaglevision.visualsec.net:8443/live/op3xGUF2UqcdVdOjuHpF3A/1665669209/212
 #EXTINF:-1 group-title="Kids" tvg-id="CBeebiesAsia.uk" tvg-name="CBeebies" tvg-logo="https://i.imgur.com/xe9juXU.png" ,CBeebies
 http://eaglevision.visualsec.net:8443/live/op3xGUF2UqcdVdOjuHpF3A/1665669209/206.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Kids",Hungama
-http://103.99.249.107:81/play/a023
+http://103.147.87.13:8000/play/a00o/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Kids",Nick
 http://50.7.237.4:8080/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Kids",Sonic Hindi
-http://103.99.249.107:81/play/a028
+http://103.147.87.13:8000/play/a00s/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Kids",Nick Bangla
-http://103.99.249.107:81/play/a03g
+http://103.147.87.13:8000/play/a00q/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Kids",Disney Channel
-http://103.99.249.107:81/play/a025
+http://103.147.87.13:8000/play/a00p/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Kids",Discovery Kids
-http://103.99.249.107:81/play/a02c
+http://103.147.87.13:8000/play/a00x/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Kids",Discovery Junior 
-http://103.99.249.107:81/play/a024
+http://103.147.87.13:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Kids",Super Hungama
 http://103.99.249.107:81/play/a07i
 
