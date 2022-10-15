@@ -97,39 +97,35 @@ http://rtmp.smartstream.video:1935/rongeentv/rongeentv/chunklist_w816006548.m3u8
 ***---------****
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.ibb.co/LtYX1pR/picture.jpg",& Pictures HD
-http://103.99.249.107:81/play/a01c
+http://50.7.237.4:8080/ANDPICTURESHD/index.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.ibb.co/c1mMXC7/tv.jpg",& TV HD
-http://103.99.249.107:81/play/a01l
+http://50.7.237.4:8080/ANDTVHD/index.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/x2qwIpL.png",Sony HD
-http://103.99.249.107:81/play/a00w
+http://50.7.237.4:8080/SONY/index.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/FepIOFs.png",Sony Max HD
-http://103.99.249.107:81/play/a009
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/FepIOFs.png",Sony Max 2x
-http://103.99.249.107:81/play/a01x
+http://50.7.237.4:8080/SONYMAXHD/index.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/FepIOFs.png",Sony Max 2
+http://50.7.237.4:8080/SONYMAX2/index.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/KRjdRnV.png",Colors HD
 http://50.7.237.4:8080/COLORS/index.m3u8
-#EXTINF:-1 group-title="Hindi" tvg-logo="",Sony Pal
-http://103.99.249.107:81/play/a01n
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.ibb.co/QYnncJ5/Sonysab.jpg",SONY SAB
 http://50.7.237.4:8080/SONYSABHD/index.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.ibb.co/PN8tTpN/Star-Bharat.jpg",STAR BHARAT HD
 http://103.99.249.107:81/play/a01w
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.ibb.co/FK8G21f/Star-Gold-HD.jpg",STARGOLD
-http://103.99.249.107:81/play/a016
+http://50.7.237.4:8080/STARGOLD/index.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.ibb.co/FK8G21f/Star-Gold-HD.jpg",STARGOLD 2
-http://103.99.249.107:81/play/a020
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://i.ibb.co/vB5TQMg/Star-Gold-Select.jpg",StarGold Select
-http://103.99.249.107:81/play/a018
+http://50.7.237.4:8080/STARGOLD2/index.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.ibb.co/xJdDVJ0/Starplus-Uk.jpg",Star Plus 
-http://103.99.249.107:81/play/a00t
+http://50.7.237.4:8080/STARPLUS/index.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.ibb.co/pd53HvV/Utvaction.jpg",UTV ACTION
 http://103.99.249.107:81/play/a01s
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.ibb.co/tBHbtXr/Utvmovies.jpg",UTV MOVIES
 http://103.99.249.107:81/play/a01t
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.ibb.co/sthCWgw/Zee-Cinema-HD.jpg",ZEE CINEMA 
-http://103.99.249.107:81/play/a014
+http://50.7.237.4:8080/ZEECINEMAHD/index.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.ibb.co/wBBrRjQ/ZeeTVHD.jpg",Zee TV HD
-http://103.99.249.107:81/play/a00u
+http://50.7.237.4:8080/ZEETVHD/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Hindi" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/bflixmovies.png",Bflix Movie
 https://idvd.multitvsolution.com/idvo/bixflixmovies.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Hindi" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/wowmovie.jpg",Wow Cinema
