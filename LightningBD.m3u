@@ -146,7 +146,7 @@ https://idvd.multitvsolution.com/idvo/moviehouse.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.ibb.co/MMrL2D8/Sonybbcearth.jpg",Sony BBC Earth HD
 http://50.7.237.4:8080/BBCEARTHHD/index.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.ibb.co/df0dnCg/Discovery-Hd.jpg",Discovery HD
-http://103.99.249.107:81/play/a019
+https://tv.googledrivelinks.com:443/autoq.php?c=Discovery_Channel_Hindi&e=.m3u8
 #EXTINF:-1 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Science SD
 http://50.7.237.4:8080/DISCOVERYSCIENCE/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Documentary", Discovery Turbo
